@@ -2,7 +2,7 @@
 
 A cork-board style link saver — paste a link, pin it, find it later. Every user has a private, password-protected board backed by Supabase.
 
-**Live demo:** https://the-board-five-amber.vercel.app
+Website- https://board-five-amber.vercel.app/
 
 ![Status](https://img.shields.io/badge/status-live-brightgreen)
 
